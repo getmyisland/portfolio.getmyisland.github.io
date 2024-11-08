@@ -58,8 +58,12 @@
   color: var(--body-color-inverse);
 }
 
-.project-info .project-buttons {
+.project-info {
   margin-top: auto;
+}
+
+.project-buttons {
+  margin-top: 10px;
 }
 
 .project-info .project-buttons .project-btn {
